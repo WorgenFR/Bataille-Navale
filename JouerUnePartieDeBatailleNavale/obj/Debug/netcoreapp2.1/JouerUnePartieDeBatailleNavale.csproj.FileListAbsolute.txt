@@ -1,0 +1,11 @@
+C:\Temp\grap0001\tp-bataille-navale\MoteurDeBatailleNavale\JouerUnePartieDeBatailleNavale\bin\Debug\netcoreapp2.1\JouerUnePartieDeBatailleNavale.deps.json
+C:\Temp\grap0001\tp-bataille-navale\MoteurDeBatailleNavale\JouerUnePartieDeBatailleNavale\bin\Debug\netcoreapp2.1\JouerUnePartieDeBatailleNavale.runtimeconfig.json
+C:\Temp\grap0001\tp-bataille-navale\MoteurDeBatailleNavale\JouerUnePartieDeBatailleNavale\bin\Debug\netcoreapp2.1\JouerUnePartieDeBatailleNavale.runtimeconfig.dev.json
+C:\Temp\grap0001\tp-bataille-navale\MoteurDeBatailleNavale\JouerUnePartieDeBatailleNavale\bin\Debug\netcoreapp2.1\JouerUnePartieDeBatailleNavale.dll
+C:\Temp\grap0001\tp-bataille-navale\MoteurDeBatailleNavale\JouerUnePartieDeBatailleNavale\bin\Debug\netcoreapp2.1\JouerUnePartieDeBatailleNavale.pdb
+C:\Temp\grap0001\tp-bataille-navale\MoteurDeBatailleNavale\JouerUnePartieDeBatailleNavale\obj\Debug\netcoreapp2.1\JouerUnePartieDeBatailleNavale.csprojAssemblyReference.cache
+C:\Temp\grap0001\tp-bataille-navale\MoteurDeBatailleNavale\JouerUnePartieDeBatailleNavale\obj\Debug\netcoreapp2.1\JouerUnePartieDeBatailleNavale.csproj.CoreCompileInputs.cache
+C:\Temp\grap0001\tp-bataille-navale\MoteurDeBatailleNavale\JouerUnePartieDeBatailleNavale\obj\Debug\netcoreapp2.1\JouerUnePartieDeBatailleNavale.AssemblyInfoInputs.cache
+C:\Temp\grap0001\tp-bataille-navale\MoteurDeBatailleNavale\JouerUnePartieDeBatailleNavale\obj\Debug\netcoreapp2.1\JouerUnePartieDeBatailleNavale.AssemblyInfo.cs
+C:\Temp\grap0001\tp-bataille-navale\MoteurDeBatailleNavale\JouerUnePartieDeBatailleNavale\obj\Debug\netcoreapp2.1\JouerUnePartieDeBatailleNavale.dll
+C:\Temp\grap0001\tp-bataille-navale\MoteurDeBatailleNavale\JouerUnePartieDeBatailleNavale\obj\Debug\netcoreapp2.1\JouerUnePartieDeBatailleNavale.pdb

@@ -1,0 +1,15 @@
+C:\Temp\grap0001\MoteurDeBatailleNavale\MoteurDeBatailleNavale\bin\Debug\netstandard2.0\MoteurDeBatailleNavale.deps.json
+C:\Temp\grap0001\MoteurDeBatailleNavale\MoteurDeBatailleNavale\bin\Debug\netstandard2.0\MoteurDeBatailleNavale.dll
+C:\Temp\grap0001\MoteurDeBatailleNavale\MoteurDeBatailleNavale\bin\Debug\netstandard2.0\MoteurDeBatailleNavale.pdb
+C:\Temp\grap0001\MoteurDeBatailleNavale\MoteurDeBatailleNavale\obj\Debug\netstandard2.0\MoteurDeBatailleNavale.csprojAssemblyReference.cache
+C:\Temp\grap0001\MoteurDeBatailleNavale\MoteurDeBatailleNavale\obj\Debug\netstandard2.0\MoteurDeBatailleNavale.csproj.CoreCompileInputs.cache
+C:\Temp\grap0001\MoteurDeBatailleNavale\MoteurDeBatailleNavale\obj\Debug\netstandard2.0\MoteurDeBatailleNavale.AssemblyInfoInputs.cache
+C:\Temp\grap0001\MoteurDeBatailleNavale\MoteurDeBatailleNavale\obj\Debug\netstandard2.0\MoteurDeBatailleNavale.AssemblyInfo.cs
+C:\Temp\grap0001\MoteurDeBatailleNavale\MoteurDeBatailleNavale\obj\Debug\netstandard2.0\MoteurDeBatailleNavale.dll
+C:\Temp\grap0001\MoteurDeBatailleNavale\MoteurDeBatailleNavale\obj\Debug\netstandard2.0\MoteurDeBatailleNavale.pdb
+C:\Temp\grap0001\tp-bataille-navale\MoteurDeBatailleNavale\MoteurDeBatailleNavale\obj\Debug\netstandard2.0\MoteurDeBatailleNavale.dll
+C:\Temp\grap0001\tp-bataille-navale\MoteurDeBatailleNavale\MoteurDeBatailleNavale\obj\Debug\netstandard2.0\MoteurDeBatailleNavale.pdb
+C:\Temp\grap0001\tp-bataille-navale\MoteurDeBatailleNavale\MoteurDeBatailleNavale\obj\Debug\netstandard2.0\MoteurDeBatailleNavale.csprojAssemblyReference.cache
+C:\Temp\grap0001\tp-bataille-navale\MoteurDeBatailleNavale\MoteurDeBatailleNavale\obj\Debug\netstandard2.0\MoteurDeBatailleNavale.csproj.CoreCompileInputs.cache
+C:\Temp\grap0001\tp-bataille-navale\MoteurDeBatailleNavale\MoteurDeBatailleNavale\obj\Debug\netstandard2.0\MoteurDeBatailleNavale.AssemblyInfoInputs.cache
+C:\Temp\grap0001\tp-bataille-navale\MoteurDeBatailleNavale\MoteurDeBatailleNavale\obj\Debug\netstandard2.0\MoteurDeBatailleNavale.AssemblyInfo.cs
